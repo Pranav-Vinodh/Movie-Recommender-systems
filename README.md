@@ -1,8 +1,13 @@
 # Recommender Systems Project: Content-Based and Collaborative Filtering
-Welcome to the Recommender Systems Project! This project explores the implementation and evaluation of two popular types of recommender systems: Content-Based Filtering and Collaborative Filtering. Recommender systems are widely used to suggest products, movies, books, and other items to users based on their preferences and behavior.
+Welcome to the Recommender Systems Project! 
+* This project explores the implementation and evaluation of two popular types of recommender systems:
+*  Content-Based Filtering and,
+*  Collaborative Filtering.
+*  Recommender systems are widely used to suggest products, movies, books, and other items to users based on their preferences and behavior.
 
 # Overview
-The project aims to build, train, and evaluate recommender systems that can provide personalized recommendations. We utilize different techniques to implement both content-based and collaborative filtering methods, comparing their performance and suitability for various types of recommendation tasks.
+* The project aims to build, train, and evaluate recommender systems that can provide personalized recommendations.
+* We utilize different techniques to implement both content-based and collaborative filtering methods, comparing their performance and suitability for various types of recommendation tasks.
 
 # Types of Recommender Systems
 # Content-Based Filtering
