@@ -6,31 +6,30 @@ The project aims to build, train, and evaluate recommender systems that can prov
 
 # Types of Recommender Systems
 # Content-Based Filtering
-Content-Based Filtering recommends items based on the features of the items and the user’s previous interactions with them. This method requires a detailed description of items and user profiles. It uses techniques like TF-IDF and cosine similarity to find items similar to those a user has liked in the past.
-Content-based recommender systems are a subset of recommender systems that tailor recommendations to users by analyzing items' intrinsic characteristics and attributes. These systems focus on understanding the content of items and mapping it to users' preferences.
+* Content-Based Filtering recommends items based on the features of the items and the user’s previous interactions with them. This method requires a detailed description of items and user profiles. It uses techniques like TF-IDF and cosine similarity to find items similar to those a user has liked in the past.
+* Content-based recommender systems are a subset of recommender systems that tailor recommendations to users by analyzing items' intrinsic characteristics and attributes. These systems focus on understanding the content of items and mapping it to users' preferences.
 
 # Collaborative Filtering
 Collaborative Filtering recommends items based on the interactions between users and items. It can be divided into two main types:
 
-User-Based Collaborative Filtering: Recommends items based on the preferences of similar users.
-Item-Based Collaborative Filtering: Recommends items similar to those the user has liked before.
-Matrix Factorization Techniques: Such as Singular Value Decomposition (SVD) and Alternating Least Squares (ALS), which decompose the user-item interaction matrix into latent factors.
+* User-Based Collaborative Filtering: Recommends items based on the preferences of similar users.
+* Item-Based Collaborative Filtering: Recommends items similar to those the user has liked before.
+* Matrix Factorization Techniques: Such as Singular Value Decomposition (SVD) and Alternating Least Squares (ALS), which decompose the user-item interaction matrix into latent factors.
 # Getting Started
 # Prerequisites
 Ensure you have the following installed:
 
-Python 3.7+
-pip (Python package installer)
-Git
+* Python 3.7+
+* pip (Python package installer)
+* Git
 
 # Acknowledgements
 This project uses the following open-source libraries:
 
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Surprise (for collaborative filtering)
-TensorFlow / PyTorch (for deep learning models)
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* TensorFlow / PyTorch (for deep learning models)
 # Thank you for checking out this project!
